@@ -1,0 +1,25 @@
+{
+    "id": "6F086B87",
+    "path": "~/git-repos/testshiny/R/myapp.R",
+    "project_path": "R/myapp.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1615313660209.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "1,18",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1615315234,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1615315234172,
+    "read_only": false,
+    "read_only_alternatives": []
+}

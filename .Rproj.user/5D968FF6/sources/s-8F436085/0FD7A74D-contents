@@ -1,0 +1,12 @@
+name: testshiny
+title: testshiny
+username:
+account: whoequity
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3762608
+bundleId: 4322352
+url: https://whoequity.shinyapps.io/testshiny/
+when: 1615315261.05445
+asMultiple: FALSE
+asStatic: FALSE

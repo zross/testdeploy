@@ -1,0 +1,2 @@
+options(devtools.install.args = "--no-multiarch") 
+devtools::install_github("WHOequity/HEAT-Data", auth_token = 'b986f3fe10a218e3371da199ddf840050a118b0a', dep = FALSE, force = TRUE)
